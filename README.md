@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="230" src="Screenshot 2025-04-18 at 19.49.14.png"  />
+  <img height="200" src="Screenshot 2025-04-18 at 19.49.14.png"  />
 </div>
 
 ###
