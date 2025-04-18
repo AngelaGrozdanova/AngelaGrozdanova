@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="230" src="https://img.freepik.com/free-vector/gradient-bim-horizontal-banner_23-2150244627.jpg"  />
+  <img height="230" src="Screenshot 2025-04-18 at 19.49.14.png"  />
 </div>
 
 ###
