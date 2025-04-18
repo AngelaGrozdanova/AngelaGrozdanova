@@ -57,7 +57,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AngelaGrozdanova/AngelaGrozdanova/output/snake.svg" alt="Snake animation" />
+<img src="Банери за проекти.svg" alt="Snake animation" />
 
 ###
 
