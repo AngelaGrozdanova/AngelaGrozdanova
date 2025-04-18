@@ -57,7 +57,7 @@
 
 ###
 
-<img src="Банери за проекти.svg" height="150" width="1200" />
+<img src="Банери за проекти.svg" height="120" width="1200" />
 
 ###
 
